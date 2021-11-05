@@ -1,0 +1,15 @@
+{
+    "url": "http://www.baidu.com",
+    "qrcode-clip-inset": {
+        "top": 30,
+        "bottom": 30,
+        "left": 30,
+        "right": 30
+    },
+    "qrcode-des-rect": {
+        "x": 160,
+        "y": 10,
+        "width": 60,
+        "height": 60
+    }
+}
